@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://www.codewars.com/users/Thomas-UA/badges/large
+
 <!--
 **Thomas-UA/Thomas-UA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
