@@ -1,8 +1,7 @@
-### Hello everybody 👋
+## Hello everybody 👋
 ### This is my GitHub account with my projects and kata solutions
 ### Sometimes I post repositories with a patterns template
-
-## This is my rank and scores from codewars
+### This is my rank and scores from codewars
 <img src="https://www.codewars.com/users/Thomas-UA/badges/large">
 
 - 🔭 I’m currently working on ...
