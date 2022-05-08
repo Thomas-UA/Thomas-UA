@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate with somebody who want to develop an open source projects.
 - 🤔 I’m looking for help with dart, flutter, python.
 - 💬 Ask me about books, i like to read books, also i want to write my own.
-- 📫 How to reach me: type in the google "from \<your city\> to Uzhhorod".
+- 📫 How to reach me: type in the google "The fastest way to come to Uzhhorod from \<your_city\>".
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I accidentally created a virus, then I fixed the errors and made the normal software.
